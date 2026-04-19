@@ -1,5 +1,7 @@
 {
-    "version": "1.0",
-    "url": "https://github.com/SophathCT/Gold-EA-Updates/releases/download/v1.0/ReanBot.exe",
-    "changelog": "Fix Bug Version 1.0."
+    "version": "1.1",
+    "url": "https://github.com/SophathCT/Gold-EA-Updates/releases/download/v1.1/ReanBot.exe",
+    "changelog": "✨ New Features:\n• Added Strategy C option\n• Improved grid calculations\n\n🐛 Bug Fixes:\n• Fixed spread filter issue\n• Fixed margin calculation\n\n⚡ Performance:\n• Faster chart updates\n• Reduced memory usage",
+    "release_date": "2026-04-19",
+    "hash": ""
 }
